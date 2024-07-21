@@ -1,12 +1,12 @@
 
-b	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(±à8Ìã¸ 2
-e
-java:S3518I"CMake sure this expression can't be zero before doing this division.(§¼¦Úøÿÿÿÿ8Üã¸ 2
-G	java:S106"+Replace this use of System.out by a logger.(—³ıñ8âã¸ 2
-Z
-java:S1854I"8Remove this useless assignment to local variable "data".(§¼¦Úøÿÿÿÿ8éã¸ 2
-j
-java:S4488B"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(À¹˜úüÿÿÿÿ8êã¸ 2
-F	java:S106H"+Replace this use of System.out by a logger.(˜äë8ëã¸ 2
-K
-java:S1481I")Remove this unused "data" local variable.(§¼¦Úøÿÿÿÿ8ëã¸ 2
+ˆ	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(±à8Ìã¸ 2J$5eeb43d1-0e17-4a68-bee0-9357789f3438
+‹
+java:S3518I"CMake sure this expression can't be zero before doing this division.(§¼¦Úøÿÿÿÿ8Üã¸ 2J$7c02748a-2047-410e-aea6-8dd45614662b
+m	java:S106"+Replace this use of System.out by a logger.(—³ıñ8âã¸ 2J$c7985548-9b7b-46d4-aea8-7beaf66e21f8
+€
+java:S1854I"8Remove this useless assignment to local variable "data".(§¼¦Úøÿÿÿÿ8éã¸ 2J$340dd8d3-012e-4179-9c0f-be60f1986eac
+
+java:S4488B"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(À¹˜úüÿÿÿÿ8êã¸ 2J$c7b0fe27-6d52-48c4-8d51-04171f395888
+l	java:S106H"+Replace this use of System.out by a logger.(˜äë8ëã¸ 2J$2ad6c4e1-e740-4b90-b2f1-c08217a56a5b
+q
+java:S1481I")Remove this unused "data" local variable.(§¼¦Úøÿÿÿÿ8ëã¸ 2J$a1bdaab7-c001-4397-b74a-446529df7460

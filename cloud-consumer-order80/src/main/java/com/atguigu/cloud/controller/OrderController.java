@@ -31,6 +31,7 @@ public class OrderController{
     public ResultData addOrder(PayDTO payDTO){
         return restTemplate.postForObject(PaymentSrv_URL + "/pay/add",payDTO,ResultData.class);
     }
+
     // 删除+修改操作作为家庭作业，O(∩_∩)O。。。。。。。
 
     @DeleteMapping(value = "/consumer/pay/del/{id}")
@@ -48,5 +49,11 @@ public class OrderController{
     @GetMapping("/consumer/pay/get/{id}")
     public ResultData getPayInfo(@PathVariable("id") Integer id){
         return restTemplate.getForObject(PaymentSrv_URL + "/pay/get/"+id, ResultData.class, id);
+    }
+
+    @GetMapping(value = "/consumer/pay/get/info")
+    private String getInfoByConsul()
+    {
+        return restTemplate.getForObject(PaymentSrv_URL + "/pay/get/info", String.class);
     }
 }

@@ -31,3 +31,7 @@ k
 ;cloud-api-commons/src/main/java/com/atguigu/cloud/Main.java,4\4\44a05214259addf671078b4cfec2e2f2a99eac70
 Å
 Qcloud-api-commons/src/main/java/com/atguigu/cloud/exp/GlobalExceptionHandler.java,9\7\97ea14fa13bee39ee5ae33b1f51aad2a25544e38
+R
+"cloud-provider-payment8002/pom.xml,d\2\d2bb34221ba1368d3a59155a41c7f7a6ca55a5cc
+x
+Hcloud-provider-payment8002/src/main/java/com/atguigu/cloud/Main8002.java,2\d\2d9f0c8a58de8b04aee1cb4f0a6353eca2d8b30b
