@@ -51,3 +51,7 @@ Qcloud-consumer-feign-order80/src/main/java/com/atguigu/cloud/MainOpenFeign80.ja
 \cloud-consumer-feign-order80/src/main/java/com/atguigu/cloud/controller/OrderController.java,a\f\af63a18d3ceb9a872e54dad85d2ce25d77f29696
 Ñ
 Tcloud-consumer-feign-order80/src/main/java/com/atguigu/cloud/config/FeignConfig.java,1\f\1f5c8d6dd6bd72f24e80c846d8017d4c658fa2d2
+è
+_cloud-provider-payment8001/src/main/java/com/atguigu/cloud/controller/PayCircuitController.java,d\6\d682d40663c4821a5f4978bceb812906093ea32a
+ì
+ccloud-consumer-feign-order80/src/main/java/com/atguigu/cloud/controller/OrderCircuitController.java,5\d\5d9d0e9badb5ff3fa340028b822e1d7502e60474
