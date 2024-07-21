@@ -1,0 +1,12 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(ÁƒËĞûÿÿÿÿ8šèäƒ2J$6e00fae7-abb7-4d51-8ec6-1007468f9463
+r
+java:S37401"/Provide the parametrized type for this generic.(ú€ÔÛ8šèäƒ2J$e959f41e-bed4-409f-8d41-6c1c476958d8
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÍòßÍ8™åà€2J$440f09d2-3f0b-40bd-80d3-a848da522688
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8›åà€2J$9c793069-30e7-4f74-95c3-07b732602d24
+Œ
+java:S1128"DRemove this unused import 'io.swagger.v3.oas.annotations.Operation'.(şÏæšşÿÿÿÿ8§èäƒ2J$4ba1a7c9-463f-4a50-bba0-51a0c7cc4249
+ƒ
+java:S1128"@Remove this unused import 'org.springframework.beans.BeanUtils'.(ŠğÄÜ8§èäƒ2J$54517fd2-af64-4bcd-94ca-1e471e95b2c5
