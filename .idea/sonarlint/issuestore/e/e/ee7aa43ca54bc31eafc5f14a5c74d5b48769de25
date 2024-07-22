@@ -1,15 +1,15 @@
 
-ˆ	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(±à8Ìã¸ 2J$7aa8e85c-4216-43e0-b49b-1cfda9615441
+ˆ	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(±à8Ìã¸ 2J$3429e38f-71f4-45c6-ad34-6a530f75f2cd
 ‹
-java:S3518M"CMake sure this expression can't be zero before doing this division.(§¼¦Úøÿÿÿÿ8Üã¸ 2J$e82aedec-9471-4675-9d6d-f53819f73672
-m	java:S106"+Replace this use of System.out by a logger.(—³ıñ8âã¸ 2J$577617f2-167b-4f54-ba3b-8000dad20342
-]	java:S1259"<This block of commented-out lines of code should be removed.(µ¯”ÿÿÿÿÿ8ç‰Øª2
+java:S3518M"CMake sure this expression can't be zero before doing this division.(§¼¦Úøÿÿÿÿ8Üã¸ 2J$0f62ffb6-15fa-47be-a42a-bad44fca28b5
+m	java:S106"+Replace this use of System.out by a logger.(—³ıñ8âã¸ 2J$5738981a-09bf-4b95-819b-861937526303
+ƒ	java:S1259"<This block of commented-out lines of code should be removed.(µ¯”ÿÿÿÿÿ8ç‰Øª2J$313cc928-9ac8-4aff-ae80-4e6eafd767fe
 €
-java:S1854M"8Remove this useless assignment to local variable "data".(§¼¦Úøÿÿÿÿ8éã¸ 2J$b45b73da-acab-4242-b284-0cfc1810c3b4
+java:S1854M"8Remove this useless assignment to local variable "data".(§¼¦Úøÿÿÿÿ8éã¸ 2J$e655d7e1-6de7-4c4b-a1a4-5e9f4b5d6e18
 
-java:S4488F"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(À¹˜úüÿÿÿÿ8êã¸ 2J$b39b2641-a545-45d1-94af-bfcb700041be
-l	java:S106L"+Replace this use of System.out by a logger.(˜äë8ëã¸ 2J$808ca331-ee9e-479d-8e2c-59f9c4cf8b88
+java:S4488F"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(À¹˜úüÿÿÿÿ8êã¸ 2J$4def46df-3c01-4817-9d16-e8a33d11d9ef
+l	java:S106L"+Replace this use of System.out by a logger.(˜äë8ëã¸ 2J$836170dc-2a23-4b9f-87f0-8c9575800e6f
 q
-java:S1481M")Remove this unused "data" local variable.(§¼¦Úøÿÿÿÿ8ëã¸ 2J$d96b28d0-61e2-4b80-ba58-542ce496bade
-W
-java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8ï‰Øª2
+java:S1481M")Remove this unused "data" local variable.(§¼¦Úøÿÿÿÿ8ëã¸ 2J$bdc559f6-326d-4efa-ba35-62bf1afebbe0
+}
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8ï‰Øª2J$a7cf9d48-7f3b-4a87-b148-9d51999e62cc
