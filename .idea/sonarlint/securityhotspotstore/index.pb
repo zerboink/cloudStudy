@@ -35,16 +35,10 @@ R
 "cloud-provider-payment8002/pom.xml,d\2\d2bb34221ba1368d3a59155a41c7f7a6ca55a5cc
 x
 Hcloud-provider-payment8002/src/main/java/com/atguigu/cloud/Main8002.java,2\d\2d9f0c8a58de8b04aee1cb4f0a6353eca2d8b30b
-^
-.cloud-consumer-order80/src/main/java/test.java,e\e\eeee84b4de6f3b4ad3746c2d4a0ba44897e95d67
-v
-Fcloud-consumer-feign-order80/src/main/java/com/atguigu/cloud/Main.java,b\b\bb7ed78c0bc27e3278e9ebaddd2306c810b3dff0
 T
 $cloud-consumer-feign-order80/pom.xml,5\5\559aa41f7ac5e0dcb9bed13bd4221db941fa3f9c
 w
 Gcloud-api-commons/src/main/java/com/atguigu/cloud/apis/PayFeignApi.java,e\1\e1d33545220dd3bc00192c1e8e3812092c962af4
-Å
-Qcloud-api-commons/src/main/java/com/atguigu/cloud/controller/OrderController.java,4\5\4571d6096d670b4c8e7ef52d04dc8711e37174b7
 Å
 Qcloud-consumer-feign-order80/src/main/java/com/atguigu/cloud/MainOpenFeign80.java,a\9\a979321c42497906a01f19b5d5a9aa7e10ea179f
 å
@@ -55,3 +49,7 @@ Tcloud-consumer-feign-order80/src/main/java/com/atguigu/cloud/config/FeignConfig
 _cloud-provider-payment8001/src/main/java/com/atguigu/cloud/controller/PayCircuitController.java,d\6\d682d40663c4821a5f4978bceb812906093ea32a
 ì
 ccloud-consumer-feign-order80/src/main/java/com/atguigu/cloud/controller/OrderCircuitController.java,5\d\5d9d0e9badb5ff3fa340028b822e1d7502e60474
+í
+bcloud-provider-payment8001/src/main/java/com/atguigu/cloud/controller/PayMicrometerController.java,b\b\bb1628b60edeb0b37a392a20efa3f1d682075174
+ñ
+fcloud-consumer-feign-order80/src/main/java/com/atguigu/cloud/controller/OrderMicrometerController.java,b\d\bde93e8e226fc944d1eafd66e04a16aedfcca804
