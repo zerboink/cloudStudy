@@ -1,0 +1,11 @@
+
+	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(‚îÍùüÿÿÿÿ8¯ª˜Ø2J$56524d78-ba5b-4dd2-ada8-3c2c508a6a07
+x
+java:S1172"0Remove this unused method parameter "exception".(áÃÀíùÿÿÿÿ8½Â€Ø2J$20803eb8-43ff-4118-beb9-509cd5f3e1cc
+q
+java:S1172.")Remove this unused method parameter "p1".(¸óèùÿÿÿÿ8—«˜Ø2J$5b690791-8928-4eb1-97ec-4d2b18e8f4b6
+k
+java:S11723")Remove this unused method parameter "p1".(ó£Ì8™«˜Ø2J$d0fa68d1-5e81-4b59-a2b7-754b3fda3eba
+o	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áš„×úÿÿÿÿ8ğ¬¼Ø2
+`
+java:S1172?">Remove these unused method parameters "p1", "p2", "exception".(Áš„×úÿÿÿÿ8­¼Ø2

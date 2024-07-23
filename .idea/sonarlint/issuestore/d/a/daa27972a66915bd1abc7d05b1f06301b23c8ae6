@@ -1,0 +1,19 @@
+
+e
+java:S3518X"CMake sure this expression can't be zero before doing this division.(Ğ­‘óşÿÿÿÿ8Ñç”Ö2
+‹
+java:S3518L"CMake sure this expression can't be zero before doing this division.(Ğ­‘óşÿÿÿÿ8·Ä‚Ö2J$11e6b256-a63d-4f09-98ca-75b2579e585e
+r	java:S1063"+Replace this use of System.out by a logger.(Ûš¡’úÿÿÿÿ8›ÙîÕ2J$5b15a765-fd01-4ee9-a398-ad3c20259c91
+¡
+java:S2142?"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¿ÁÁÍ8šÈñÕ2J$e4f5ca15-5328-4ee3-a009-e8be46439379
+r	java:S106@"+Replace this use of System.out by a logger.(ôÑ¯Õüÿÿÿÿ8œÈñÕ2J$410c1f7d-c87c-45e1-a70a-5cc986fc2a39
+
+java:S1854L"7Remove this useless assignment to local variable "age".(Ğ­‘óşÿÿÿÿ8ÃÄ‚Ö2J$54d3ac03-1977-4fdd-9801-7f09bfa6e4fc
+m	java:S106K"+Replace this use of System.out by a logger.(Õ†£Ş8ÄÄ‚Ö2J$4efc406a-2cf4-44b8-be8c-84691b9911a2
+p
+java:S1481L"(Remove this unused "age" local variable.(Ğ­‘óşÿÿÿÿ8ÆÄ‚Ö2J$bd559abd-0911-4870-9018-de2fe9a99e1e
+Y
+java:S1854X"7Remove this useless assignment to local variable "age".(Ğ­‘óşÿÿÿÿ8Şç”Ö2
+G	java:S106W"+Replace this use of System.out by a logger.(ÇĞæ8ßç”Ö2
+J
+java:S1481X"(Remove this unused "age" local variable.(Ğ­‘óşÿÿÿÿ8ßç”Ö2
